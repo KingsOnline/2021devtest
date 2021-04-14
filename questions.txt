@@ -1,0 +1,10 @@
+1. There is a note from the designers to the product managers on the final page of the spec. It covers a query that goes beyond the brief for this spec. If you were going to consider adding this functionality, what coding language do you think you would use to implement it?
+ANSWER: 
+
+2. There are a few examples of bad practice in the html that could have accessibility implications. Identify one.
+ANSWER:
+
+3. What resource would you recommend to the developer who wrote this HTML if they wanted to improve their understanding of accessibility?
+ANSWER:
+
+
